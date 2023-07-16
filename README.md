@@ -1,0 +1,2 @@
+# datacleaning_analysis_storytelling
+business analysis about possible discount strategies
